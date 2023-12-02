@@ -44,7 +44,7 @@ It is a physical implementation of JVM.
 It contains libraries and other files that JVM uses at runtime.
 
 Java Virtual Machine
-It is an abstract machine that doesn't physcially exit. 
+It is an abstract machine that doesn't physcially exist. 
 It provides a run time environment in which java bytecode can be executed.
 
 --> Features of Java
