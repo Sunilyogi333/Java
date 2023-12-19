@@ -11,16 +11,16 @@ class Student extends Person{
     String department;
     int roll;
 
-    Student(String name, int age,String department, int roll){
+    Student(String name, int age, String department, int roll){
         super(name, roll);
         this.department = department;
         this.roll = roll;
     }
     void display(){
-        System.out.println("Name: "+name);
-        System.out.println("age: "+age);
-        System.out.println("Department: "+department);
-        System.out.println("Roll: "+roll);
+        System.out.println("Name: "+name+
+                           "\nage: "+age+
+                           "\nDepartment: "+department+
+                           "\nRoll: "+roll);
     }
 }
 class SuperKeywordExample{

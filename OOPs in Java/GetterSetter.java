@@ -1,11 +1,12 @@
 /* 
 Getter and Setter in Java
 
-- Getter and Setter are used to get and set the value of a variable.
-- Getter and Setter are also known as Accessor and Mutator in Java.
 - Getter in Java is used to return the value of a private field.
 - Setter in Java is used to set the value of a private field.
-- Getter and Setter in Java are used to encapsulate a field by making it accessible    only through its public methods and keep the values themselves private.
+- Getter and Setter are also known as Accessor and Mutator in Java.
+- Getter and Setter in Java are used to encapsulate a field by making 
+  it accessible  only through its public methods and keep the values 
+  themselves private.
 
 */ 
 
