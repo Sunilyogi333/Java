@@ -8,7 +8,7 @@ The characteristics of static keyword in java are:
 i) static members are associated with class rather than object.
 ii) static keyword is used with variables, methods, blocks and nested class.
 iii) static method cannot be overridden but can be overloaded.
-iv) static method cannpt access non-static data members and methods of a class.
+iv) static method cannot access non-static data members and methods of a class.
 
 1.Static Variables:
 class Test{
