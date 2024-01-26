@@ -16,7 +16,7 @@ class Base2{
         System.out.println("Base2");
     }
 }
-class Derived extends Base1, Base2{
+class Derived extends Base2{
     void writes(){
         System.out.println("Derived");
     }
