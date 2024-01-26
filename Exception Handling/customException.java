@@ -5,14 +5,15 @@
 
 import java.util.Scanner;
 
-class InvalidAgeException extends RuntimeException {
-    InvalidAgeException(String s) {
+class InvalidAgeException extends Exception {
+     public InvalidAgeException(String s) {
         super(s);
     }
 }
 
 public class customException {
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+     {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your age: ");
         

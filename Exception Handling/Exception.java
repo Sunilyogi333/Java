@@ -1,6 +1,10 @@
 //Exception handling divide by zero
 import java.util.Scanner;
 public class Exception {
+    public Exception(String s) {
+        //TODO Auto-generated constructor stub
+    }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the value of a and b");
