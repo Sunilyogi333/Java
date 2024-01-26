@@ -1,7 +1,7 @@
 import java.util.*;
 
-class SunilException extends RuntimeException{
-    pubic SunilException(String message){
+class SunilException extends Exception{
+    SunilException(String message){
         super(message);
     }
 }

@@ -25,11 +25,11 @@ class Person{
     }
 }
 
-class Employee extends Person{
+class Employee2 extends Person{
     String department;
     Address add; // Composition
 
-    Employee(String name, int age, String department, Address add){
+    Employee2(String name, int age, String department, Address add){
         super(name, age);
         this.department = department;
         this.add = add;
@@ -45,7 +45,7 @@ class Employee extends Person{
 class CompositionInheritance{
     public static void main(String[] args){
         Address add = new Address("Bagmati", "Kathmandu", "Kathmandu");
-        Employee E = new Employee("Sunil", 21, "IT", add);
+        Employee2 E = new Employee2("Sunil", 21, "IT", add);
         E.display();
     }
 }

@@ -2,7 +2,7 @@
 Function Overriding
 Suppose a base class and derived classs has a member function with exactly same signature(name).
 Now if call the function using object of derived class then the derived class function gets called.
-This is know as function overriding.
+This is known as function overriding.
 */
 class Base{
     void display(){

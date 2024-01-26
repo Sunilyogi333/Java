@@ -6,20 +6,20 @@
 import java.util.Scanner;
 
 class InvalidAgeException extends Exception {
-     public InvalidAgeException(String s) {
-        super(s);
+      InvalidAgeException(String s) {
+          super(s);
     }
 }
 
 public class customException {
-    public static void main(String[] args) 
+    public static void main(String[] args)
      {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your age: ");
-        
+
         try {
             int age = sc.nextInt();
-            
+
             if (age < 18) {
                 throw new InvalidAgeException("You are not eligible to vote");
             } else if (age > 60) {

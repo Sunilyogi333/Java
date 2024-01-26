@@ -1,7 +1,7 @@
 //Exception handling divide by zero
 import java.util.Scanner;
-public class Exception {
-    public Exception(String s) {
+class ExceptionHandling {
+    public ExceptionHandling(String s) {
         //TODO Auto-generated constructor stub
     }
 
@@ -14,7 +14,7 @@ public class Exception {
             int c = a / b;
             System.out.println("The value of c is " + c);
         } catch (ArithmeticException e) {
-            System.out.println("Exception occured " + e);
+            System.out.println("Exception occurred " + e);
         }
         System.out.println("End of the program");
     }

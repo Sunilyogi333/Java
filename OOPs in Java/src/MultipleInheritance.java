@@ -7,23 +7,23 @@ needs to access one of the funtion then it will be ambiguous to the compiler to 
 function to call. This is the reason why multiple inheritance is not supported in Java.
 */
 class Base1{
-    void writes(){
+    void write(){
         System.out.println("Base1");
     }
 }
 class Base2{
-    void writes(){
+    void write(){
         System.out.println("Base2");
     }
 }
-class Derived extends Base2{
-    void writes(){
+class Derived2 extends Base2{
+    void write(){
         System.out.println("Derived");
     }
 }
 class MultipleInheritance{
     public static void main(String[] args) {
-        Derived d = new Derived();
-        d.writes();
+        Derived2 dd = new Derived2();
+        dd.write();
     }
 }

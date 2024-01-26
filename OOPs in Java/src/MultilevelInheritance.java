@@ -1,14 +1,14 @@
 /*
 Multiple Inheritance
 - It is a process in which a derived class is inherited from base class which in turn is derived 
-  from anther bases classes.
+  from another bases classes.
 */
-class Animal{
+class Animals2{
     void eat(){
         System.out.println("Animal is eating.");
     }
 }
-class Dog extends Animal{
+class Dogs extends Animals{
     void bark(){
         System.out.println("Dog is barking.");
     }

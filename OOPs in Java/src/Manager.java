@@ -16,9 +16,9 @@ class Human{
         System.out.println("Age: "+age);
     }
 }
-class Employee extends Human{
+class Employee3 extends Human{
     double salary;
-    Employee(String name, int age, double salary){
+    Employee3(String name, int age, double salary){
         super(name, age);
         this.salary = salary;
     } 
@@ -27,7 +27,7 @@ class Employee extends Human{
             System.out.println("Salary: "+salary);
         }
 }
-class Manager extends Employee{
+class Manager extends Employee3{
     Manager(String name, int age, double salary){
         super(name, age, salary);
     }

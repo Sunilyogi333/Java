@@ -20,7 +20,7 @@ class cow extends Animal {
         System.out.println("Cow is eating.");
     }
 }
-class HirarchicalInheritance {
+class HiarchicalInheritance {
     public static void main(String[] args) {
         Animal a = new Animal();
         a.eat();

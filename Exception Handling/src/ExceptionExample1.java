@@ -7,7 +7,7 @@ class ExceptionExample1{
             System.out.println("Enter a number: ");
             int num = sc.nextInt();
         }
-        catch(RuntimeException e){
+        catch(Exception e){
             System.out.println("Cannot perform task");
             System.out.println(e.getMessage());
         }

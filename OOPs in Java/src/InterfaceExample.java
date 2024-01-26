@@ -16,9 +16,9 @@ interface Perimeter{
     public abstract void findPerimeter();
 }
 
-class Rectangle implements Area, Perimeter{
+class Rectangle2 implements Area, Perimeter{
     float length, breadth;
-    Rectangle(float length, float breadth){
+    Rectangle2(float length, float breadth){
         this.length = length;
         this.breadth = breadth;
     }
@@ -32,7 +32,7 @@ class Rectangle implements Area, Perimeter{
 
 class InterfaceExample{
     public static void main(String[] args){
-        Rectangle r = new Rectangle(10, 20);
+        Rectangle2 r = new Rectangle2(10, 20);
         r.findArea();
         r.findPerimeter();
     }
