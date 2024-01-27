@@ -12,10 +12,10 @@ iv) static method cannot access non-static data members and methods of a class.
 
 1.Static Variables:
 class Test{
-    int a; //instance variable
+    int aa ; //instance variable
     static int b; //static variable
 }
-- When a varaible declared static, a single copy of that variable is created and shared among all instance of 
+- When a variable declared static, a single copy of that variable is created and shared among all instance of
 a class.
 
 2.Static Methods:

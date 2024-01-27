@@ -1,6 +1,6 @@
 /*
 Constructor
-- A Constructor is a special member function that is used to initailize the object.
+- A Constructor is a special member function that is used to initialize the object.
 - It does not have any return type.
 - Constructor Overloading is  process  in which a class can have more than one constructor.
 */

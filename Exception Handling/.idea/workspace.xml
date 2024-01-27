@@ -5,41 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e88d00fd-2b37-4d61-8b09-4e39885092c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOPs in Java/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Coding.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Elements of Java/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomException2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DivideByZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileCopying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileReading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileWriting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xyz.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Elements of Java/src/ArrayExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Elements of Java/src/ArrayExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Elements of Java/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Elements of Java/src/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Elements of Java/src/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Elements of Java/src/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Elements of Java/src/StaticExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Elements of Java/src/StaticExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Elements of Java/src/StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Elements of Java/src/StaticKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Elements of Java/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Elements of Java/src/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Elements of Java/src/cStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Elements of Java/src/cStudent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CustomException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cusException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/customException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/customException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPs in Java/src/CompositionInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPs in Java/src/CompositionInheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPs in Java/src/FunctionOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPs in Java/src/FunctionOverriding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPs in Java/src/HirarchicalInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPs in Java/src/HirarchicalInheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPs in Java/src/InterfaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPs in Java/src/InterfaceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPs in Java/src/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPs in Java/src/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPs in Java/src/MultilevelInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPs in Java/src/MultilevelInheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPs in Java/src/MultipleInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPs in Java/src/MultipleInheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPs in Java/src/SuperKeywordExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPs in Java/src/SuperKeywordExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPs in Java/src/SuperWithVaraible.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPs in Java/src/SuperWithVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPs in Java/src/VaraibleHiding.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPs in Java/src/finalKeywordExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPs in Java/src/finalKeywordExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Coding/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Coding/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Coding/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Coding/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Coding/out/production/Exception Handling/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Coding/out/production/Exception Handling/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Coding/out/production/Exception Handling/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Coding/out/production/Exception Handling/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Coding/out/production/Exception Handling/Exception Handling.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../text.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,16 +40,24 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2bVEl6bIBs7Cnb556AuWx23p0Sg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CustomException2.executor": "Run",
+    "Application.DivideByZero.executor": "Run",
     "Application.ExceptionExample1.executor": "Run",
     "Application.ExceptionExample2 (1).executor": "Run",
     "Application.ExceptionExample2.executor": "Run",
     "Application.ExceptionHandling.executor": "Run",
+    "Application.FileCopying.executor": "Run",
+    "Application.FileReading.executor": "Run",
+    "Application.FileWriting.executor": "Run",
     "Application.InvalidAgeException (1).executor": "Run",
     "Application.InvalidAgeException.executor": "Run",
     "Application.Main.executor": "Run",
@@ -82,37 +70,37 @@
     "last_opened_file_path": "/home/sunil/Documents/Coding/Java/Exception Handling"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ExceptionExample2">
-    <configuration name="ExceptionExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionExample1" />
+  <component name="RunManager" selected="Application.FileCopying">
+    <configuration name="CustomException2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomException2" />
       <module name="Exception Handling" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionExample2" />
+    <configuration name="DivideByZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DivideByZero" />
       <module name="Exception Handling" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling" />
+    <configuration name="FileCopying" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileCopying" />
       <module name="Exception Handling" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InvalidAgeException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InvalidAgeException" />
+    <configuration name="FileReading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileReading" />
       <module name="Exception Handling" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="customException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="customException" />
+    <configuration name="FileWriting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileWriting" />
       <module name="Exception Handling" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExceptionExample2" />
-        <item itemvalue="Application.customException" />
-        <item itemvalue="Application.InvalidAgeException" />
-        <item itemvalue="Application.ExceptionHandling" />
-        <item itemvalue="Application.ExceptionExample1" />
+        <item itemvalue="Application.FileCopying" />
+        <item itemvalue="Application.FileReading" />
+        <item itemvalue="Application.FileWriting" />
+        <item itemvalue="Application.CustomException2" />
+        <item itemvalue="Application.DivideByZero" />
       </list>
     </recent_temporary>
   </component>

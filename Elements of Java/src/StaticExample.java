@@ -15,7 +15,7 @@ class StaticExample{
         System.out.println("The value of static variable: " + static_var);
     }
 
-    public static void main(String[] args){
+    public static void main (String[] args){
         System.out.println("This is main method");
         System.out.println("The value of static variable: " + static_var);
         staticMethod();

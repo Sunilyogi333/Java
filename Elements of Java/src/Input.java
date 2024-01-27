@@ -13,7 +13,7 @@ public class Input {
 
         System.out.println("Enter salary");
         double Salary = myObj.nextDouble(); // Read user input
-        System.out.println("Salary is: " + Salary); // Output user inputi
+        System.out.println("Salary is: " + Salary); // Output user input
     }
 }
 
@@ -34,7 +34,7 @@ nextShort()	    -Reads a short value from the user
 
 /*
 1) import java.util.Scanner;  // Import the Scanner class
- - is an import statement in Java. It is used to make classes and packages from the java.util package,       specifically the Scanner class, accessible in your Java code.
+ - is an import statement in Java. It is used to make classes and packages from the java.util package, specifically the Scanner class, accessible in your Java code.
 
 i) import: This keyword is used to declare an import statement in Java.
 
@@ -44,10 +44,10 @@ iii) Scanner: This is the class name that you want to import from the java.util 
 
 - When you include this import statement at the beginning of your Java file, it allows you to use the Scanner class without having to specify its full package name every time you reference it in your code.
   For example, instead of writing:
-  java.util.Scanner scanner = new java.util.Scanner(System.in);,
+  java.util.Scanner obj = new java.util.Scanner(System.in);,
 
   you can simply write:
-  Scanner scanner = new Scanner(System.in);.
+  Scanner obj = new Scanner(System.in);.
 
 --> Import statements are a way to simplify your code and make it more readable by providing easy access to classes and packages that you intend to use in your Java program.
 */

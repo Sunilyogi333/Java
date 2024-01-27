@@ -1,12 +1,16 @@
 // Purpose: Holds all the variables for the program
 public class Variables {
-    float instance_var = 1.0f; // instance variable
+    float instance_var = 1.01f; // instance variable
     static int static_var = 1; // static variable
+
+    void function1(){
+        int local_var = 1; //local variable
+        System.out.println("local_var:" + local_var);
+    }
     public static void main(String[] args) {
-        int local_var = 1; // local variable
-        System.out.println("local_var: " + local_var);
         System.out.println("static_var: " + static_var);
         Variables v = new Variables();
+        v.function1();
         System.out.println("instance_var: " + v.instance_var);
     }
 }
@@ -22,7 +26,7 @@ Types of Variable
     - declared inside the class but outside the method, constructor or block
     - declared by using the keyword static
     - scope is limited to the class
-    - can be accessed directly by the class name
+    - they are associated with class rather than object
     - must be initialized before use
 
 3.instance variable
