@@ -5,20 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e88d00fd-2b37-4d61-8b09-4e39885092c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Elements of Java/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomException2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DivideByZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileCopying.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileReading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileWriting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xyz.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Elements of Java/src/ArrayExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Elements of Java/src/ArrayExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Elements of Java/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Elements of Java/src/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Elements of Java/src/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Elements of Java/src/Input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Elements of Java/src/StaticExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Elements of Java/src/StaticExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Elements of Java/src/StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Elements of Java/src/StaticKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Elements of Java/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Elements of Java/src/Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Elements of Java/src/cStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Elements of Java/src/cStudent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
