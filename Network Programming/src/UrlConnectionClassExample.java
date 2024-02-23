@@ -10,7 +10,7 @@ public class UrlConnectionClassExample {
             InputStream ips = UCL.getInputStream();
             int data;
             while((data= ips.read())!=-1){
-                System.out.println((char)data);
+                System.out.print((char)data);
             }
             ips.close();
         }

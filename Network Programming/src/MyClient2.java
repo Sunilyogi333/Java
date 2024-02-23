@@ -14,7 +14,7 @@ public class MyClient2 {
             System.out.println("Enter a number to send for server");
             int num = sc.nextInt();
 
-            // create output stream to read data from the server
+            // create output stream to send data to the server
             OutputStream outputStream = socket.getOutputStream();
             DataOutputStream dos = new DataOutputStream(outputStream);
 

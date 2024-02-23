@@ -9,7 +9,7 @@ public class BoxLayoutExample extends JFrame {
         btn1 = new JButton("btn1");
         btn2 = new JButton("btn2");
         btn3 = new JButton("btn3");
-        btn4 = new JButton("long name");
+        btn4 = new JButton("long name button 3");
         btn5 = new JButton("btn5");
 
         // Setting the size of the JFrame
@@ -26,7 +26,7 @@ public class BoxLayoutExample extends JFrame {
         btn5.setAlignmentX(Component.CENTER_ALIGNMENT);
 
         // Setting the layout manager to BoxLayout with Y_AXIS alignment
-        setLayout(new BoxLayout(getContentPane(), BoxLayout.Y_AXIS));
+        setLayout(new BoxLayout(this.getContentPane(), BoxLayout.Y_AXIS));
 
         // Adding buttons to the JFrame
         add(btn1);

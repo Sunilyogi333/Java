@@ -21,7 +21,7 @@ public class PopUpMenuExample extends JFrame implements ActionListener,MouseList
         lb = new JLabel();
 
         //Create popup menu
-        PM = new JPopupMenu("Edit");
+        PM = new JPopupMenu();
 
         //Create menu items
         M1 = new JMenuItem("Cut");
