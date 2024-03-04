@@ -42,8 +42,8 @@ public class MyServer2{
                 Socket clienSocket = serverSocket.accept();
 
                 //start a new thread to handle the client
-                ServerThread serverThread = new ServerThread(clienSocket);
-                serverThread.start();
+                ServerThread st = new ServerThread(clienSocket);
+                st.start();
             }
         }catch (IOException e){
             e.printStackTrace();

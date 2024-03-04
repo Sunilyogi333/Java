@@ -1,0 +1,8 @@
+create database testing_db;
+
+create table student(
+id int AUTO_INCREMENT PRIMARY KEY,
+name varchar(225),
+faculty varchar(225),
+marks int
+)
