@@ -26,9 +26,9 @@ class EvenOdd extends JFrame implements ActionListener {
         add(btn);
 
         // set bounds for components
-        tf1.setBounds(50, 50, 150, 30);
-        btn.setBounds(50, 100, 150, 30);
-        tf2.setBounds(50, 150, 150, 30);
+        tf1.setBounds(50, 50, 150, 40);
+        btn.setBounds(50, 100, 150, 40);
+        tf2.setBounds(50, 150, 150, 40);
 
         //add listener
         btn.addActionListener(this);
@@ -47,6 +47,7 @@ class EvenOdd extends JFrame implements ActionListener {
     }
 
     public static  void main(String[] args){
+
         new EvenOdd();
     }
 }

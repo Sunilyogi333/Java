@@ -18,13 +18,6 @@ public class BoxLayoutExample extends JFrame {
         // Setting the default close operation
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-        // Setting the alignment of buttons
-        btn1.setAlignmentX(Component.CENTER_ALIGNMENT);
-        btn2.setAlignmentX(Component.CENTER_ALIGNMENT);
-        btn3.setAlignmentX(Component.CENTER_ALIGNMENT);
-        btn4.setAlignmentX(Component.CENTER_ALIGNMENT);
-        btn5.setAlignmentX(Component.CENTER_ALIGNMENT);
-
         // Setting the layout manager to BoxLayout with Y_AXIS alignment
         setLayout(new BoxLayout(this.getContentPane(), BoxLayout.Y_AXIS));
 
@@ -34,6 +27,13 @@ public class BoxLayoutExample extends JFrame {
         add(btn3);
         add(btn4);
         add(btn5);
+
+        // Setting the alignment of buttons
+        btn1.setAlignmentX(Component.CENTER_ALIGNMENT);
+        btn2.setAlignmentX(Component.CENTER_ALIGNMENT);
+        btn3.setAlignmentX(Component.CENTER_ALIGNMENT);
+        btn4.setAlignmentX(Component.CENTER_ALIGNMENT);
+        btn5.setAlignmentX(Component.CENTER_ALIGNMENT);
 
         // Making the JFrame visible
         setVisible(true);

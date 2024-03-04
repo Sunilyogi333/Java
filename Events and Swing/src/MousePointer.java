@@ -15,6 +15,7 @@ public class MousePointer extends JFrame implements MouseListener {
         tf1.setBounds(50,50,150,50);
         tf2.setBounds(50,150,150,50);
         tf1.setEditable(false);
+        tf2.setEditable(false);
 
         add(tf1);
         add(tf2);

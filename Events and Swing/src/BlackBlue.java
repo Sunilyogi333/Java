@@ -16,7 +16,7 @@ public class BlackBlue extends JFrame implements ActionListener {
         setLayout(null);
         setVisible(true);
         setSize(500,500);
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);  // Set default close operation
+        setDefaultCloseOperation(EXIT_ON_CLOSE);  // Set default close operation
 
         add(btn1);
         add(btn2);

@@ -21,8 +21,8 @@ public class UppercaseAndColor extends JFrame implements ActionListener {
 
         add(btn);
         add(txt);
-        btn.setBounds(50,50,100,100);
-        txt.setBounds(50,150,100,100);
+        btn.setBounds(50,50,100,80);
+        txt.setBounds(50,150,100,80);
 
         btn.addActionListener(this);
     }
