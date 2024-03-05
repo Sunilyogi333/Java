@@ -5,7 +5,7 @@ public class PieChart extends JPanel{
         int data[] = {40,30,20,10};
         Color data_clr[] = {Color.red, Color.blue, Color.green, Color.yellow};
 
-                int total = 100;
+        int total = 100;
         int start_angle = 0;
         for(int i=0; i<data.length; i++){
             int arc_angle = (int)(data[i]*360/total);

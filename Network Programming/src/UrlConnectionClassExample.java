@@ -12,6 +12,8 @@ public class UrlConnectionClassExample {
             while((data= ips.read())!=-1){
                 System.out.print((char)data);
             }
+            InetAddress ina = InetAddress.getByName("www.google.com");
+            System.out.println("ip address"+ina.getHostAddress());
             ips.close();
         }
         catch(Exception e){

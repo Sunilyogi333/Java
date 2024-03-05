@@ -13,9 +13,7 @@ public class GridLayoutExample extends JFrame {
         btn6 = new JButton("6");
 
         setSize(500, 500);
-
         setVisible(true);
-
         setLayout(new GridLayout(3,2));
 
         add(btn1);

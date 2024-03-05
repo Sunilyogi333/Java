@@ -21,7 +21,6 @@ class DatabaseExample2 {
             count++;
             sum += rset.getInt("marks");
             System.out.println(rset.getInt(1)+" "+rset.getString(2));
-            rset.next();
         }
         int average = sum/count;
         System.out.println("Total Number of Student: "+count);

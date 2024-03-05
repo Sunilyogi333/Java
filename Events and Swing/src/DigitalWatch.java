@@ -17,7 +17,7 @@ public class DigitalWatch extends JFrame {
         label.setForeground(Color.green);
         label.setOpaque(true);
 
-        timeFormat = new SimpleDateFormat("HH.mm.ss");
+        timeFormat = new SimpleDateFormat("hh.mm.ss");
 
         setLayout(new FlowLayout());
         add(label);

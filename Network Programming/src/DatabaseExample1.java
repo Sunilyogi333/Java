@@ -11,7 +11,6 @@ public class DatabaseExample1{
         ResultSet rset = smt.executeQuery(query);
         while(rset.next()){
             System.out.println(rset.getInt(1)+" "+rset.getString(2));
-            rset.next();
         }
         conn.close();
     }

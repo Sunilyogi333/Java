@@ -24,5 +24,8 @@ public class ReflectionExample3 {
 
         Object obj = C.newInstance();
         Mth.invoke(obj);
+
+        String S = (String)fld.get(obj);
+        System.out.println(S);
     }
 }

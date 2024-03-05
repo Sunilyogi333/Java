@@ -14,7 +14,7 @@ public class MyClient3 {
         InputStream is = socket.getInputStream();
         DataInputStream dis = new DataInputStream(is);
 
-        //continously send data to server
+        //continuously send data to server
         Scanner sc = new Scanner(System.in);
         String str1, str2;
         while (true){

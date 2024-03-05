@@ -17,7 +17,7 @@ class EvenOdd extends JFrame implements ActionListener {
         setLayout(null);
         setSize(500,500);
         setVisible(true);
-        setDefaultCloseOperation(EXIT_ON_CLOSE);
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         tf2.setEditable(false);
 
         //add components

@@ -1,6 +1,6 @@
 import java.awt.*;
 import javax.swing.*;
-
+//
 public class BoxLayoutExample extends JFrame {
     JButton btn1, btn2, btn3, btn4, btn5;
 

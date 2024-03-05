@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e88d00fd-2b37-4d61-8b09-4e39885092c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Network Programming/src/MyClient4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Network Programming/src/MyServer4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Network Programming/src/MyClient2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network Programming/src/MyClient2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Network Programming/src/UrlConnectionClassExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Network Programming/src/UrlConnectionClassExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="e88d00fd-2b37-4d61-8b09-4e39885092c0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/sunil/Documents/Coding/Java/Events and Swing"
+    "last_opened_file_path": "/home/sunil/Documents/Coding/Java/Elements of Java"
   }
 }]]></component>
   <component name="RunManager" selected="Application.FileCopying">
